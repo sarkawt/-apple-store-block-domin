@@ -1,8 +1,8 @@
-ecommerce-qa.apple.com	 	 
-bb-test.apple.com	  
-bbtest.apple.com  
-wdg-uat.apple.com 
-applechinawifi.apple.com 	 
+0.0.0.0 ecommerce-qa.apple.com	 	 
+0.0.0.0 bb-test.apple.com	  
+0.0.0.0 bbtest.apple.com  
+0.0.0.0 wdg-uat.apple.com 
+0.0.0.0 applechinawifi.apple.com 	 
 courier.sandbox.push.apple.com 
 gateway.push.apple.com 
 radarweb-uat-iphone.apple.com  
